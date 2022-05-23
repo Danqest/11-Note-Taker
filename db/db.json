@@ -1,0 +1,7 @@
+[
+    {
+        "title": "Existing Note 1",
+        "text": "This is an example note saved to the db.json file.",
+        "id": "1234"
+    }
+]
